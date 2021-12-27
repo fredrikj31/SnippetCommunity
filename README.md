@@ -1,6 +1,10 @@
 # SnippetCommunity
 A social media website for programmers to share and discuss different code snippets.
 
+## Hosting
+- Runs on netlify
+- Backend functions as netlify's serverless functions
+- Database and so on, by Firebase
 
 ## Naming Convention
 In this program we use camelCase as the naming convention. It ensures that functions and variable names are easier to read.
